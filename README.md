@@ -1,4 +1,4 @@
-# Code for the EMNLP 2023 submission - 'CLMSM: A Multi-Task Learning Framework for Pre-training on Procedural Text'
+# CLMSM: A Multi-Task Learning Framework for Pre-training on Procedural Text (Accepted in EMNLP-Findings 2023) 
 
 ## Required Dependencies
 
