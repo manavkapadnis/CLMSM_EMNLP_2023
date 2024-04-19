@@ -3,6 +3,8 @@
 ## Authors - Abhilash Nandy, Manav Nitin Kapadnis, Pawan Goyal, Niloy Ganguly
 ### Indian Institute of Technology Kharagpur
 
+![image](CLMSM_EMNLP_Poster.jpg)
+
 ## Required Dependencies
 
 Please run `pip install -r requirements.txt` (`python3` required).
